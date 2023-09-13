@@ -24,6 +24,7 @@
 [![Workbench](https://img.shields.io/badge/-Workbench-0D1117?style=for-the-badge&logo=mysql&logoColor=007ACC&labelColor=0D1117)](https://www.mysql.com/products/workbench/)
 
 ### Studying in this moment:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
 
