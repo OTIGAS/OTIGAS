@@ -9,6 +9,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIGAS&bg_color=4f42b5&color=FDFEFE&line=FDFEFE&point=F1C40F&area=falsee&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OTIGAS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
