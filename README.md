@@ -21,7 +21,7 @@
 ### Tools:
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)](https://code.visualstudio.com/)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-[![Workbench](https://img.shields.io/badge/-Workbench-0D1117?style=for-the-badge&logo=workbenche&logoColor=007ACC&labelColor=0D1117)](https://www.mysql.com/products/workbench/)
+[![Workbench](https://img.shields.io/badge/-Workbench-0D1117?style=for-the-badge&logo=workbench&logoColor=007ACC&labelColor=0D1117)](https://www.mysql.com/products/workbench/)
 
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
