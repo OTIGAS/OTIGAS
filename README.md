@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTIGAS&layout=compact&hide_border=true&title_color=4f42b5&text_color=4f42b5&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIGAS&bg_color=4f42b5&color=FDFEFE&line=FDFEFE&point=F1C40F&area=falsee&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
